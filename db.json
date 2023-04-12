@@ -1,0 +1,234 @@
+{
+    "fuel": {
+        "transactions": [
+            {
+                "amount": 60,
+                "id": "12345",
+                "effectiveDate": "11/04/2023",
+                "description": "Ampol Woolworths MetroGo Alexandria"
+            },
+            {
+                "amount": 80,
+                "id": "56789",
+                "effectiveDate": "28/03/2023",
+                "description": "EG Ampol Turramurra"
+            },
+            {
+                "amount": 70,
+                "id": "56789",
+                "effectiveDate": "14/03/2023",
+                "description": "Ampol Foodary St Ives North"
+            },
+            {
+                "amount": 60,
+                "id": "56789",
+                "effectiveDate": "28/02/2023",
+                "description": "Ampol Foodary Tempe"
+            }
+        ],
+        "offers" : [
+            {
+                "id": "1",
+                "name": "4c Off Fuel",
+                "description": "Ampol Card",
+                "expiry": "01/05/2023"
+            },
+            {
+                "id": "2",
+                "name": "10% discount on Fuel",
+                "description": "Credit/Debit transactions",
+                "expiry": "01/06/2023"
+            },
+            {
+                "id": "3",
+                "name": "200 points",
+                "description": "Everyday Reward",
+                "expiry": "20/05/2023"
+            },
+            {
+                "id": "4",
+                "name": "10% discount on Fuel",
+                "description": "Credit/Debit transactions",
+                "expiry": "10/06/2023"
+            },
+            {
+                "id": "5",
+                "name": "4c Off Fuel",
+                "description": "Ampol Card",
+                "expiry": "01/07/2023"
+            }
+        ],
+        "locations": [
+            {
+                "id": "137483",
+                "name": "Ampol Woolworths MetroGo Alexandria",
+                "location": {
+                    "lat": -33.901720,
+                    "lng": 151.197310
+                },
+                "address": "133 McEvoy St, Alexandria NSW 2015"
+            },
+            {
+                "id": "137483",
+                "name": "EG Ampol Turramurra",
+                "location": {
+                    "lat": -33.7331411,
+                    "lng": 151.1313878
+                },
+                "address": "1233 Pacific Hwy, Turramurra NSW 2074"
+            },
+            {
+                "id": "137483",
+                "name": "Ampol Foodary St Ives North",
+                "location": {
+                    "lat": -33.7168171,
+                    "lng": 151.1736009
+                },
+                "address": "363 Mona Vale Rd, St Ives NSW 2075"
+            },
+            {
+                "id": "129382",
+                "name": "Ampol Foodary Croydon",
+                "location": {
+                    "lat": -33.888470,
+                    "lng": 151.115730
+                },
+                "address": "404-410 Liverpool Rd, Croydon NSW 2132"
+            },
+            {
+                "id": "137483",
+                "name": "Ampol Foodary Tempe",
+                "location": {
+                    "lat": -33.925350,
+                    "lng": 151.159683
+                },
+                "address": "775 Princes Hwy, Tempe NSW 2044"
+            }
+        ]
+    },
+    "charge": {
+        "transactions": [
+            {
+                "amount": 20,
+                "id": "137483",
+                "effectiveDate": "08/04/2023",
+                "description": "Ampol Woolworths MetroGo Alexandria"
+            },
+            {
+                "amount": 26,
+                "id": "137484",
+                "effectiveDate": "11/03/2023",
+                "description": "Ampol Woolworths MetroGo Northmead"
+            }
+        ],
+        "offers" : [
+            {
+                "id": "1",
+                "name": "4c Off Charging",
+                "description": "Ampol Card",
+                "expiry": "1/05/2023"
+            },
+            {
+                "id": "2",
+                "name": "10% discount on Charging",
+                "description": "Credit/Debit transactions",
+                "expiry": "1/06/2023"
+            },
+            {
+                "id": "3",
+                "name": "200 points",
+                "description": "Everyday Reward",
+                "expiry": "20/05/2023"
+            },
+            {
+                "id": "4",
+                "name": "10% discount on Charging",
+                "description": "Credit/Debit transactions",
+                "expiry": "10/06/2023"
+            },
+            {
+                "id": "5",
+                "name": "4c Off Charging",
+                "description": "Ampol Card",
+                "expiry": "1/07/2023"
+            }
+        ],
+        "locations": [
+            {
+                "id": "137483",
+                "name": "Ampol Woolworths MetroGo Alexandria",
+                "location": {
+                    "lat": -33.901720,
+                    "lng": 151.197310
+                },
+                "address": "133 McEvoy St, Alexandria NSW 2015"
+            },
+            {
+                "id": "137483",
+                "name": "Ampol Woolworths MetroGo Northmead",
+                "location": {
+                    "lat": -33.78333,
+                    "lng": 150.98333
+                },
+                "address": "98-100 Windsor Rd Cnr Lombard Rd, Northmead, NSW 2152"
+            },
+            {
+                "id": "129382",
+                "name": "EG Ampol Redfern",
+                "location": {
+                    "lat": -33.889069,
+                    "lng": 151.201935
+                },
+                "address": "475-489 Cleveland St, Surry Hills NSW 2016"
+            }
+        ]
+    },
+    "energy": {
+        "transactions": [
+            {
+                "amount": 200,
+                "id": "45435",
+                "effectiveDate": "01/01/2023",
+                "description": "Electricity & Gas for Oct-Dec 2022"
+            },
+            {
+                "amount": 200,
+                "id": "53432",
+                "effectiveDate": "01/04/2023",
+                "description": "Electricity & Gas for Jan-April 2022 "
+            }
+        ],
+        "offers" : [
+            {
+                "id": "1",
+                "name": "4c Off Energy",
+                "description": "Ampol Card",
+                "expiry": "1/05/2023"
+            },
+            {
+                "id": "2",
+                "name": "10% discount on Energy",
+                "description": "Credit/Debit transactions",
+                "expiry": "01/06/2023"
+            },
+            {
+                "id": "3",
+                "name": "200 points",
+                "description": "Everyday Reward",
+                "expiry": "20/05/2023"
+            }
+        ],
+        "locations": [
+            {
+                "id": "137483",
+                "name": "Ampol Limited",
+                "location": {
+                    "lat": -33.911689758,
+                    "lng": 151.1942901
+                },
+                "address": "29-33 Bourke Rd, Alexandria NSW 2015"
+            }
+        ]
+    }
+}
+
